@@ -5962,7 +5962,7 @@ html [class*='section-'].section-bottom-0 {
 	bottom: 0;
 	right: 0;
 	content: '';
-	background: linear-gradient(360deg, #9e1c98b2 0.91%, rgba(196, 21, 158, 0.281) 47.77%, rgba(39, 42, 55, 0.75) 99.52%);
+	background: linear-gradient(360deg, #0c0606b2 0.91%, rgba(105, 7, 7, 0.664) 47.77%, rgba(39, 42, 55, 0.75) 99.52%);
 	z-index: 1;
 }
 @keyframes bunner-img {
